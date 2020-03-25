@@ -1,0 +1,21 @@
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Ebob Bul V2.0\Ebob Bul V2.0\bin\Debug\Ebob Bul V2.0.exe
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Ebob Bul V2.0\Ebob Bul V2.0\bin\Debug\Ebob Bul V2.0.pdb
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Ebob Bul V2.0\Ebob Bul V2.0\obj\x86\Debug\Ebob_Bul_V2._0.Form1.resources
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Ebob Bul V2.0\Ebob Bul V2.0\obj\x86\Debug\Ebob_Bul_V2._0.Properties.Resources.resources
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Ebob Bul V2.0\Ebob Bul V2.0\obj\x86\Debug\Ebob Bul V2.0.csproj.GenerateResource.Cache
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Ebob Bul V2.0\Ebob Bul V2.0\obj\x86\Debug\Ebob Bul V2.0.exe
+C:\Users\ncfkr1\Desktop\ \2 C#\BLOG\Ebob Bul V2.0\Ebob Bul V2.0\obj\x86\Debug\Ebob Bul V2.0.pdb
+C:\Users\murat\Desktop\26 Kodbank C# Görsel Programlama 26 Ebob Bul V2.0\Ebob Bul V2.0\Ebob Bul V2.0\obj\x86\Debug\Ebob Bul V2.0.exe
+C:\Users\murat\Desktop\26 Kodbank C# Görsel Programlama 26 Ebob Bul V2.0\Ebob Bul V2.0\Ebob Bul V2.0\obj\x86\Debug\Ebob Bul V2.0.pdb
+C:\Users\murat\Desktop\26 Kodbank C# Görsel Programlama 26 Ebob Bul V2.0\Ebob Bul V2.0\Ebob Bul V2.0\bin\Debug\Ebob Bul V2.0.exe
+C:\Users\murat\Desktop\26 Kodbank C# Görsel Programlama 26 Ebob Bul V2.0\Ebob Bul V2.0\Ebob Bul V2.0\bin\Debug\Ebob Bul V2.0.pdb
+C:\Users\murat\Desktop\26 Kodbank C# Görsel Programlama 26 Ebob Bul V2.0\Ebob Bul V2.0\Ebob Bul V2.0\obj\x86\Debug\Ebob_Bul_V2._0.Form1.resources
+C:\Users\murat\Desktop\26 Kodbank C# Görsel Programlama 26 Ebob Bul V2.0\Ebob Bul V2.0\Ebob Bul V2.0\obj\x86\Debug\Ebob_Bul_V2._0.Properties.Resources.resources
+C:\Users\murat\Desktop\26 Kodbank C# Görsel Programlama 26 Ebob Bul V2.0\Ebob Bul V2.0\Ebob Bul V2.0\obj\x86\Debug\Ebob Bul V2.0.csproj.GenerateResource.Cache
+E:\1 Github\2 Akademi\Form\25 Kod-H CSharp Ebob Bul V2.0\Ebob Bul V2.0\obj\x86\Debug\Ebob Bul V2.0.exe
+E:\1 Github\2 Akademi\Form\25 Kod-H CSharp Ebob Bul V2.0\Ebob Bul V2.0\obj\x86\Debug\Ebob Bul V2.0.pdb
+E:\1 Github\2 Akademi\Form\25 Kod-H CSharp Ebob Bul V2.0\Ebob Bul V2.0\bin\Debug\Ebob Bul V2.0.exe
+E:\1 Github\2 Akademi\Form\25 Kod-H CSharp Ebob Bul V2.0\Ebob Bul V2.0\bin\Debug\Ebob Bul V2.0.pdb
+E:\1 Github\2 Akademi\Form\25 Kod-H CSharp Ebob Bul V2.0\Ebob Bul V2.0\obj\x86\Debug\Ebob_Bul_V2._0.Form1.resources
+E:\1 Github\2 Akademi\Form\25 Kod-H CSharp Ebob Bul V2.0\Ebob Bul V2.0\obj\x86\Debug\Ebob_Bul_V2._0.Properties.Resources.resources
+E:\1 Github\2 Akademi\Form\25 Kod-H CSharp Ebob Bul V2.0\Ebob Bul V2.0\obj\x86\Debug\Ebob Bul V2.0.csproj.GenerateResource.Cache
